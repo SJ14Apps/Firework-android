@@ -31,7 +31,7 @@ dependencies {
 	implementation 'com.github.sj14apps:firework-android:1.0'
 }
 ```
-[![](https://jitpack.io/v/SlaVcE14/Firework-android.svg)](https://jitpack.io/#SlaVcE14/Firework-android)
+[![](https://jitpack.io/v/SJ14Apps/Firework-android.svg)](https://jitpack.io/#SJ14Apps/Firework-android)
 
 ## [Example code](https://github.com/SlaVcE14/Firework-android/tree/main/app/src/main)
 [fireworks example video.webm](https://github.com/user-attachments/assets/ffb4bb2a-652c-44cc-a58e-ef4f5ecf4a66)
