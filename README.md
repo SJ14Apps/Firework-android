@@ -4,6 +4,8 @@ Simple and easy-to-use Android library for creating fireworks
 <img src="https://github.com/user-attachments/assets/9c29daad-a118-4b77-bc87-7a59d5541ea3" width="300" />
 
 ## Download
+> [!NOTE]
+> this library was moved to `com.github.sj14apps`!
 ### Step 1. Add the JitPack repository 
 Add it in your root build.gradle at the end of repositories:
 ```gradle
@@ -26,7 +28,7 @@ dependencyResolutionManagement {
 ### Step 2. Add the dependency
 ```gradle
 dependencies {
-	implementation 'com.github.slavce14:firework-android:1.0'
+	implementation 'com.github.sj14apps:firework-android:1.0'
 }
 ```
 [![](https://jitpack.io/v/SlaVcE14/Firework-android.svg)](https://jitpack.io/#SlaVcE14/Firework-android)
